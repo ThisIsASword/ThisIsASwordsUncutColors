@@ -21,6 +21,18 @@ NOTE: The ColorPaletteWriter.py script is not essential for the mod to work. It'
 
 -------------------------------------------------------------------------
 Using the Writer Script:
+##################################################################
+##### NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE NOTE #####
+At the moment there is no way to remove color palettes once you've
+unlocked them. So if you make a color palette then decide you
+don't want it anymore, removing its entry from the CSV file will
+leave you with a color palette called "???" for each you remove.
+You can change the color values for a palette even after you've 
+purchased it in game with no problems though so until further
+notice, try to avoid making a bunch of things you might hate in
+the future.
+##################################################################
+
 Making your own color pack is fairly straightforward.
 
 First, make a new folder in the mods folder and name it whatever you like. 
