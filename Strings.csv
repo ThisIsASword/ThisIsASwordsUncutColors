@@ -1,55 +1,93 @@
+patchOver_WORLDLOC_DENERIM,Denerim
 patchAdd_Colors_Denerim/Name (Identified),Colors of Denerim
 patchAdd_Colors_Denerim/Description (Identified),Colors of Denerim
 patchAdd_Colors_Denerim/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Denerim/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_MIDIAN,Midian
 patchAdd_Colors_Midian/Name (Identified),Colors of Midian
 patchAdd_Colors_Midian/Description (Identified),Colors of Midian
 patchAdd_Colors_Midian/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Midian/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_PALAS,Palas
+patchAdd_Colors_Palas/Name (Identified),Colors of Palas
+patchAdd_Colors_Palas/Description (Identified),Colors of Palas
+patchAdd_Colors_Palas/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Palas/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_TOWEROFINCULCATION,The Tower of Inculcation
 patchAdd_Colors_TowerInculcation/Name (Identified),Colors of The Tower of Inculcation
 patchAdd_Colors_TowerInculcation/Description (Identified),Colors of The Tower of Inculcation
 patchAdd_Colors_TowerInculcation/Icon (Identified),im-icon-item-component
 patchAdd_Colors_TowerInculcation/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_KOPESH,Khopesh
 patchAdd_Colors_Khopesh/Name (Identified),Colors of Khopesh
 patchAdd_Colors_Khopesh/Description (Identified),Colors of Khopesh
 patchAdd_Colors_Khopesh/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Khopesh/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_FORRUSH,Forrush
+patchAdd_Colors_Forrush/Name (Identified),Colors of Forrush
+patchAdd_Colors_Forrush/Description (Identified),Colors of Forrush
+patchAdd_Colors_Forrush/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Forrush/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_FAIN,Fain
 patchAdd_Colors_Fain/Name (Identified),Colors of Fain
 patchAdd_Colors_Fain/Description (Identified),Colors of Fain
 patchAdd_Colors_Fain/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Fain/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_MANDESH,Mandesh
 patchAdd_Colors_Mandesh/Name (Identified),Colors of Mandesh
 patchAdd_Colors_Mandesh/Description (Identified),Colors of Mandesh
 patchAdd_Colors_Mandesh/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Mandesh/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_BORPHEE,Borphee
+patchAdd_Colors_Borphee/Name (Identified),Colors of Borphee
+patchAdd_Colors_Borphee/Description (Identified),Colors of Borphee
+patchAdd_Colors_Borphee/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Borphee/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_SANDAKAR,Sandakar
 patchAdd_Colors_Sandakar/Name (Identified),Colors of Sandakar
 patchAdd_Colors_Sandakar/Description (Identified),Colors of Sandakar
 patchAdd_Colors_Sandakar/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Sandakar/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_POSTUN,Postun
+patchAdd_Colors_Postun/Name (Identified),Colors of Postun
+patchAdd_Colors_Postun/Description (Identified),Colors of Postun
+patchAdd_Colors_Postun/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Postun/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_TOWM,The Oracle of the Western Machine
+patchAdd_Colors_WesternMachine/Name (Identified),Colors of The Oracle of the Western Machine
+patchAdd_Colors_WesternMachine/Description (Identified),Colors of The Oracle of the Western Machine
+patchAdd_Colors_WesternMachine/Icon (Identified),im-icon-item-component
+patchAdd_Colors_WesternMachine/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_ILLARNEK,Illarnek
 patchAdd_Colors_Illarnek/Name (Identified),Colors of Illarnek
 patchAdd_Colors_Illarnek/Description (Identified),Colors of Illarnek
 patchAdd_Colors_Illarnek/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Illarnek/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_THENAMELESSROCK,The Nameless Rock
 patchAdd_Colors_Nameless_Rock/Name (Identified),Colors of The Nameless Rock
 patchAdd_Colors_Nameless_Rock/Description (Identified),Colors of The Nameless Rock
 patchAdd_Colors_Nameless_Rock/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Nameless_Rock/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_SARKOMAND,Sarkomand
+patchAdd_Colors_Sarkomand/Name (Identified),Colors of Sarkomand
+patchAdd_Colors_Sarkomand/Description (Identified),Colors of Sarkomand
+patchAdd_Colors_Sarkomand/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Sarkomand/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_TOC,The Onyx City
 patchAdd_Colors_OnyxCity/Name (Identified),Colors of The Onyx City
 patchAdd_Colors_OnyxCity/Description (Identified),Colors of The Onyx City
 patchAdd_Colors_OnyxCity/Icon (Identified),im-icon-item-component
 patchAdd_Colors_OnyxCity/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_TRKD,The Realm of the King of Dusk
 patchAdd_Colors_KingDusk/Name (Identified),Colors of The Realm of the King of Dusk
 patchAdd_Colors_KingDusk/Description (Identified),Colors of The Realm of the King of Dusk
 patchAdd_Colors_KingDusk/Icon (Identified),im-icon-item-component
 patchAdd_Colors_KingDusk/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_BAPHIS,Baphis
 patchAdd_Colors_Baphis/Name (Identified),Colors of Baphis
 patchAdd_Colors_Baphis/Description (Identified),Colors of Baphis
 patchAdd_Colors_Baphis/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Baphis/Icon (Unidentified),im-icon-item-component
-patchOver_Colors_Baphis/Name (Identified),Colors of Baphis
-patchOver_Colors_Baphis/Description (Identified),Colors of Baphis
-patchOver_Colors_Baphis/Icon (Identified),im-icon-item-component
-patchOver_Colors_Baphis/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_SKULKGHOST,The Skulking Ghost
 patchAdd_Colors_SkulkingGhost/Name (Identified),Colors of The Skulking Ghost
 patchAdd_Colors_SkulkingGhost/Description (Identified),Colors of The Skulking Ghost
