@@ -102,7 +102,7 @@ def WriteFiles(colors, file):
                 else:
                     pass
                 writer.writerow([color['ID']+'/Name (Identified)', color['Identified Name']])
-                writer.writerow([color['ID']+'/Description (Identified)', color['Identified Name']])
+                writer.writerow([color['ID']+'/Description (Identified)', color['Description']])
                 writer.writerow([color['ID']+'/Icon (Identified)', 'im-icon-item-component'])
                 writer.writerow([color['ID']+'/Icon (Unidentified)', 'im-icon-item-component'])
 

@@ -1,105 +1,115 @@
 patchOver_WORLDLOC_DENERIM,Denerim
 patchAdd_Colors_Denerim/Name (Identified),Colors of Denerim
-patchAdd_Colors_Denerim/Description (Identified),Colors of Denerim
+patchAdd_Colors_Denerim/Description (Identified),"Denerim is considered a holy city by worshippers of some woman with a pointy hat, but not wholly. Participation is never quite at 100%."
 patchAdd_Colors_Denerim/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Denerim/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_MIDIAN,Midian
 patchAdd_Colors_Midian/Name (Identified),Colors of Midian
-patchAdd_Colors_Midian/Description (Identified),Colors of Midian
+patchAdd_Colors_Midian/Description (Identified),"Some scholars have suggested that Midian was not a geographical area but a league of tribes. They were all killed, so obviously they were wrong."
 patchAdd_Colors_Midian/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Midian/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_PALAS,Palas
 patchAdd_Colors_Palas/Name (Identified),Colors of Palas
-patchAdd_Colors_Palas/Description (Identified),Colors of Palas
+patchAdd_Colors_Palas/Description (Identified),"As this dye has its origins in Palas, there can be no guarantee that wearing it won't slowly eat away at your skin and then kill you. Consequently, returns of this item will not be accepted."
 patchAdd_Colors_Palas/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Palas/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_TOWEROFINCULCATION,The Tower of Inculcation
 patchAdd_Colors_TowerInculcation/Name (Identified),Colors of The Tower of Inculcation
-patchAdd_Colors_TowerInculcation/Description (Identified),Colors of The Tower of Inculcation
+patchAdd_Colors_TowerInculcation/Description (Identified),The Tower of Inculcation is the sort of place you go if your parents have lots of money and would be embarrassed if they didn't spend an average person's salary to send you there. Just keep that to yourself. They aren't the most morally developed people.
 patchAdd_Colors_TowerInculcation/Icon (Identified),im-icon-item-component
 patchAdd_Colors_TowerInculcation/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_KOPESH,Khopesh
 patchAdd_Colors_Khopesh/Name (Identified),Colors of Khopesh
-patchAdd_Colors_Khopesh/Description (Identified),Colors of Khopesh
+patchAdd_Colors_Khopesh/Description (Identified),Khopesh: Excellent can openers. Inconsistent spelling.
 patchAdd_Colors_Khopesh/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Khopesh/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_FORRUSH,Forrush
 patchAdd_Colors_Forrush/Name (Identified),Colors of Forrush
-patchAdd_Colors_Forrush/Description (Identified),Colors of Forrush
+patchAdd_Colors_Forrush/Description (Identified),"The colors of Forrush were made in tribute to an extremely overrated band of minstrels from the Northern lands. If donning their attire summons them here, the Brazen Head will be most displeased."
 patchAdd_Colors_Forrush/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Forrush/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_FAIN,Fain
 patchAdd_Colors_Fain/Name (Identified),Colors of Fain
-patchAdd_Colors_Fain/Description (Identified),Colors of Fain
+patchAdd_Colors_Fain/Description (Identified),"The Khopeshi caste known as the Fain are supposedly boat people. Not sentient boats, you understand. They just enjoy a good sail."
 patchAdd_Colors_Fain/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Fain/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_MANDESH,Mandesh
 patchAdd_Colors_Mandesh/Name (Identified),Colors of Mandesh
-patchAdd_Colors_Mandesh/Description (Identified),Colors of Mandesh
+patchAdd_Colors_Mandesh/Description (Identified),The Khopeshi caste known as the Mandesh are... uhh... murder... enthusiasts?
 patchAdd_Colors_Mandesh/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Mandesh/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_BORPHEE,Borphee
 patchAdd_Colors_Borphee/Name (Identified),Colors of Borphee
-patchAdd_Colors_Borphee/Description (Identified),Colors of Borphee
+patchAdd_Colors_Borphee/Description (Identified),"Borphee is a city which, much like the Necropolis, exists within a Zork."
 patchAdd_Colors_Borphee/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Borphee/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_SANDAKAR,Sandakar
 patchAdd_Colors_Sandakar/Name (Identified),Colors of Sandakar
-patchAdd_Colors_Sandakar/Description (Identified),Colors of Sandakar
+patchAdd_Colors_Sandakar/Description (Identified),Sandakar made weapons so why in Abraxis' name he's got a clothing line defies explanation. Oh and it seems he did the detail work with rat blood. Lovely
 patchAdd_Colors_Sandakar/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Sandakar/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_POSTUN,Postun
 patchAdd_Colors_Postun/Name (Identified),Colors of Postun
-patchAdd_Colors_Postun/Description (Identified),Colors of Postun
+patchAdd_Colors_Postun/Description (Identified),"The colors of Postun are worn by people who pay money for a product only to find it incomplete, discarding it in frustration. Except none of them are around to wear these colors so it's on you now."
 patchAdd_Colors_Postun/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Postun/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_TOWM,The Oracle of the Western Machine
 patchAdd_Colors_WesternMachine/Name (Identified),Colors of The Oracle of the Western Machine
-patchAdd_Colors_WesternMachine/Description (Identified),Colors of The Oracle of the Western Machine
+patchAdd_Colors_WesternMachine/Description (Identified),"The Oracle maintains the perpetually spinning Disks of Knowledge whose information she alone can interpret. Access to this information, via the Oracle, is what keeps the Western Machine in motion. Knowledge is power, after all."
 patchAdd_Colors_WesternMachine/Icon (Identified),im-icon-item-component
 patchAdd_Colors_WesternMachine/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_ILLARNEK,Illarnek
 patchAdd_Colors_Illarnek/Name (Identified),Colors of Illarnek
-patchAdd_Colors_Illarnek/Description (Identified),Colors of Illarnek
+patchAdd_Colors_Illarnek/Description (Identified),"Illarnek is a frigid miserable place where everything is frozen, nobody is friendly, and traffic moves at a glacial pace."
 patchAdd_Colors_Illarnek/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Illarnek/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_THENAMELESSROCK,The Nameless Rock
 patchAdd_Colors_Nameless_Rock/Name (Identified),Colors of The Nameless Rock
-patchAdd_Colors_Nameless_Rock/Description (Identified),Colors of The Nameless Rock
+patchAdd_Colors_Nameless_Rock/Description (Identified),This one's for all the geologists out there. And for all the sane people that want to know whom to avoid engaging in conversation.
 patchAdd_Colors_Nameless_Rock/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Nameless_Rock/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_SARKOMAND,Sarkomand
 patchAdd_Colors_Sarkomand/Name (Identified),Colors of Sarkomand
-patchAdd_Colors_Sarkomand/Description (Identified),Colors of Sarkomand
+patchAdd_Colors_Sarkomand/Description (Identified),Sarkomand is a rather difficult and unpleasant place to get to but it's totally worth it for their high quality health care.
 patchAdd_Colors_Sarkomand/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Sarkomand/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_TOC,The Onyx City
 patchAdd_Colors_OnyxCity/Name (Identified),Colors of The Onyx City
-patchAdd_Colors_OnyxCity/Description (Identified),Colors of The Onyx City
+patchAdd_Colors_OnyxCity/Description (Identified),Not much is known about the Onyx City except for it's fixation with one particular building material.
 patchAdd_Colors_OnyxCity/Icon (Identified),im-icon-item-component
 patchAdd_Colors_OnyxCity/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_TRKD,The Realm of the King of Dusk
 patchAdd_Colors_KingDusk/Name (Identified),Colors of The Realm of the King of Dusk
-patchAdd_Colors_KingDusk/Description (Identified),Colors of The Realm of the King of Dusk
+patchAdd_Colors_KingDusk/Description (Identified),"The King of Dusk was the most powerful monarch ever elected, but only for a brief segment of every day."
 patchAdd_Colors_KingDusk/Icon (Identified),im-icon-item-component
 patchAdd_Colors_KingDusk/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_BAPHIS,Baphis
 patchAdd_Colors_Baphis/Name (Identified),Colors of Baphis
-patchAdd_Colors_Baphis/Description (Identified),Colors of Baphis
+patchAdd_Colors_Baphis/Description (Identified),"The people of Baphis are blood people.  Blood this, blood that.  Welcome to Baphis, if you don't mind, we're just going to spill the contents of your circulatory system all over the front steps of the Tourism Office."
 patchAdd_Colors_Baphis/Icon (Identified),im-icon-item-component
 patchAdd_Colors_Baphis/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_SKULKGHOST,The Skulking Ghost
 patchAdd_Colors_SkulkingGhost/Name (Identified),Colors of The Skulking Ghost
-patchAdd_Colors_SkulkingGhost/Description (Identified),Colors of The Skulking Ghost
+patchAdd_Colors_SkulkingGhost/Description (Identified),"The Skulking Ghost exists only so long as the living take no notice. Look away, you insensitive monster."
 patchAdd_Colors_SkulkingGhost/Icon (Identified),im-icon-item-component
 patchAdd_Colors_SkulkingGhost/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_ZEKESAPPR,Zeke's Apprentice
 patchAdd_Colors_ZekesApprentice/Name (Identified),Colors of Zeke's Apprentice
-patchAdd_Colors_ZekesApprentice/Description (Identified),Colors of Zeke's Apprentice
+patchAdd_Colors_ZekesApprentice/Description (Identified),The talents of Zeke's Apprentice are many. Not only does he work in chemistry but he dabbles in fashion as well. Fancy that.
 patchAdd_Colors_ZekesApprentice/Icon (Identified),im-icon-item-component
 patchAdd_Colors_ZekesApprentice/Icon (Unidentified),im-icon-item-component
 patchOver_WORLDLOC_DEADJAK,DeadJak
 patchAdd_Colors_DeadJak/Name (Identified),Colors of DeadJak
-patchAdd_Colors_DeadJak/Description (Identified),Colors of DeadJak
+patchAdd_Colors_DeadJak/Description (Identified),"DeadJak is, for all intents and purposes, dead.  He has been adorned in the ritual burial garments of his people and now you can be too."
 patchAdd_Colors_DeadJak/Icon (Identified),im-icon-item-component
 patchAdd_Colors_DeadJak/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_NECROPOLIS,The Necropolis
+patchAdd_Colors_Necropolis/Name (Identified),Colors of The Necropolis
+patchAdd_Colors_Necropolis/Description (Identified),"The Necropolis, being the cheerful place in which you currently find yourself, is an odd choice of affiliation but to each their own."
+patchAdd_Colors_Necropolis/Icon (Identified),im-icon-item-component
+patchAdd_Colors_Necropolis/Icon (Unidentified),im-icon-item-component
+patchOver_WORLDLOC_BRAZENHEAD,The Brazen Head
+patchAdd_Colors_BrazenHead/Name (Identified),Colors of The Brazen Head
+patchAdd_Colors_BrazenHead/Description (Identified),Acolytes of the Brazen Head can expect to be invited to all the best parties and to be totally protected from death. There is no reason to suspect this is anything less than the truth. Promise.
+patchAdd_Colors_BrazenHead/Icon (Identified),im-icon-item-component
+patchAdd_Colors_BrazenHead/Icon (Unidentified),im-icon-item-component
